@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Car Kings - Premium Car Customization",
+  "description": "A high-end frontend-only business website for Car Kings, a premium car accessories and customization brand in Bangalore.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
